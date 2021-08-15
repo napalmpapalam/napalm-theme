@@ -1,17 +1,17 @@
 <idea-plugin>
   <id>com.napalmpapalam.napalmpapalam.theme</id>
-  <name>napalmpapalam</name>
+  <name>Napalmpapalam Dark Theme</name>
   <version>1.0.0</version>
   <vendor email="loktionov.kh@gmail.com" url="https://github.com/napalmpapalam">napalmpapalam</vendor>
 
   <description><![CDATA[
-    A minimalist dark and light theme using comfortable UI colors.
+    A minimalistic dark theme, mix of GitHub dark UI theme and VSCode syntax highlighting.
     ]]></description>
 
   <change-notes><![CDATA[
     <b>1.0.0<b/>
       <ul>
-        <li>Napalmpapalam webstorm theme</li>
+        <li>First release</li>
       </ul>
       <br>
     ]]>
