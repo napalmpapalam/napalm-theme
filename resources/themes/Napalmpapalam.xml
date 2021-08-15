@@ -1,11 +1,7 @@
-<scheme name="napalmpapalm" version="142" parent_scheme="Darcula">
+<scheme name="Napalmpapalam" version="142" parent_scheme="Darcula">
 <option name="FONT_SCALE" value="1.0" />
 <metaInfo>
-    <property name="created">2021-08-14T09:17:03</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-14T09:17:11</property>
-    <property name="originalScheme">Napalm sheme</property>
+    <property name="ide">idea</property>
 </metaInfo>
 <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
 <option name="CONSOLE_LIGATURES" value="true" />
@@ -19,9 +15,9 @@
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_MODIFIED" value="E4B433" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="E4B433" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="E4B433" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
@@ -29,10 +25,10 @@
     <option name="GUTTER_BACKGROUND" value="d1117" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="56d364" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="f85149" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="e3b341" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="E4B433" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
     <option name="LINE_NUMBERS_COLOR" value="848484" />
-    <option name="MODIFIED_LINES_COLOR" value="e3b341" />
+    <option name="MODIFIED_LINES_COLOR" value="E4B433" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
     <option name="SELECTION_BACKGROUND" value="264e77" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4e4e4e" />
@@ -48,7 +44,7 @@
     <option name="ScrollBar.Transparent.thumbColor" value="414141" />
     <option name="ScrollBar.Transparent.trackColor" value="1d1d1d" />
     <option name="VISUAL_INDENT_GUIDE" value="3b3b3b" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e3b341" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="E4B433" />
 </colors>
 <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">

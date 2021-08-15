@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.napalmpapalam.napalmpapalam.theme</id>
   <name>napalmpapalam</name>
   <version>1.0.0</version>
   <vendor email="loktionov.kh@gmail.com" url="https://github.com/napalmpapalam">napalmpapalam</vendor>
@@ -18,15 +18,15 @@
   </change-notes>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
        on how to target different products -->
-  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="d38a2428-ed7d-4cb2-89ef-6f3cf0d0d85f" path="/napalmpapalm.theme.json"/>
+    <themeProvider id="d38a2428-ed7d-4cb2-89ef-6f3cf0d0d85f" path="/Napalmpapalam.theme.json"/>
   </extensions>
 
   <actions>
