@@ -255,7 +255,7 @@
       "Header.background": "mainBackground",
       "Tab": {
         "selectedForeground": "mainForeground",
-        "selectedBackground": "mainBackground"
+        "selectedBackground": "thirdBorder"
       },
       "SearchField": {
         "background": "mainBackground",
