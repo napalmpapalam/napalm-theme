@@ -356,7 +356,7 @@
 
     "WelcomeScreen": {
       "background": "mainBackground",
-      "Projects.selectionInactiveBackground": "mainBackground",
+      "Projects.selectionInactiveBackground": "thirdBorder",
       "separatorColor": "mainBorder"
     }
   },
