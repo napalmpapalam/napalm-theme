@@ -9,6 +9,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+      <b>1.0.1<b/>
+      <ul>
+        <li>Fixed some popup selection backgrounds</li>
+      </ul>
+      <br>
     <b>1.0.0<b/>
       <ul>
         <li>First release</li>
